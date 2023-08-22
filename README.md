@@ -1,6 +1,6 @@
-# :)
 
-[Contact✉](mailto:pujasku@gmail.com)
+
+[Contact ✉](mailto:pujasku@gmail.com)
 
 <!---
 pujasku/pujasku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
